@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-the-language/static/css/main.0801cc26.css",
+    "main.js": "/guess-the-language/static/js/main.f7e6b5c1.js",
+    "static/js/453.192c7118.chunk.js": "/guess-the-language/static/js/453.192c7118.chunk.js",
+    "index.html": "/guess-the-language/index.html",
+    "main.0801cc26.css.map": "/guess-the-language/static/css/main.0801cc26.css.map",
+    "main.f7e6b5c1.js.map": "/guess-the-language/static/js/main.f7e6b5c1.js.map",
+    "453.192c7118.chunk.js.map": "/guess-the-language/static/js/453.192c7118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0801cc26.css",
+    "static/js/main.f7e6b5c1.js"
+  ]
+}
